@@ -1,6 +1,6 @@
 /* 
  * 
- * Priemira vez usando mongodb, isso que foi um teste simples
+ * Priemira vez usando mongodb, isso aqui foi um teste simples
  * que eu achei em um curso de node.js no youtube.
  * 
  * Link do vídeo: https://youtu.be/h4lS9V3FCRQ
